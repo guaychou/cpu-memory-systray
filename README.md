@@ -1,4 +1,4 @@
-# Mac Tools Ping
+# CPU & Memory Monitoring tools Mac
 
 The purpose of this tools is monitoring your CPU and Memory usage in your Mac OS <br /> 
 This tools will appears in your system tray.
